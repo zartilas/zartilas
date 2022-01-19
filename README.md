@@ -1,5 +1,7 @@
 ## ZARTILAS | ΖΑΡΤΗΛΑΣ
-
+### Postgraduate student in University of Piraeus.
+#### Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence
+#
 <!DOCTYPE html>
 <html>
 <head>
