@@ -1,8 +1,8 @@
 ## ZARTILAS | ΖΑΡΤΗΛΑΣ
-### MSc: Informatics Department,  University of Piraeus
-Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence
-### BSc: Informatics Department,  University of Piraeus
-Software Engineering and Intelligent Systems
+###  Informatics Department,  University of Piraeus
+MSc: Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence
+
+BSc: Software Engineering and Intelligent Systems
 #
 <!DOCTYPE html>
 <html>
