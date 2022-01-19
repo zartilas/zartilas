@@ -1,6 +1,8 @@
 ## ZARTILAS | ΖΑΡΤΗΛΑΣ
-### Postgraduate student in University of Piraeus.
-#### Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence
+### MSc: Informatics Department,  University of Piraeus
+Advanced Informatics and Computing Systems - Software Development and Αrtificial Intelligence
+### BSc: Informatics Department,  University of Piraeus
+Software Engineering and Intelligent Systems
 #
 <!DOCTYPE html>
 <html>
@@ -23,9 +25,13 @@
 
 </details>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> Contact details:</h3>
 <p align="left">
  
+Email: vzartilas@pm.me
+
+<a href="https://linkedin.com/in/zartilas" target="blank"><h4> • Linked-In <h4/></a>
+
 <a href="https://instagram.com/zartilas" target="blank"><h4> • Instagram <h4/></a>
   
 <a href="https://t.me/zartilas" target="blank"><h4> • Telegram <h4/></a>
