@@ -35,16 +35,16 @@ BSc: Software Engineering and Intelligent Systems
 <p align="left">
  
 <a href="mailto: vzartilas@pm.me">
-  <img align="left" alt="Zartilas | Email" width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/email.svg"/>
+  <img align="left" alt="Zartilas | Email" width="25px" src="https://user-images.githubusercontent.com/36131492/158048905-c0270fc9-1d5b-42d2-a29b-ff51eb2e1448.png"/>
 </a>
 <a href="https://t.me/zartilas">
-  <img align="left" alt="Zartilas | Telegram" width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/telegram.svg"/>
+  <img align="left" alt="Zartilas | Telegram" width="25px" src="https://user-images.githubusercontent.com/36131492/158048809-25f4d2db-73d0-4837-9273-64f8f2331bdf.png" />
 </a>
 <a href="https://linkedin.com/in/zartilas">
-  <img align="left" alt="Zartilas | Linkedin" width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/linkedin.svg"/>
+  <img align="left" alt="Zartilas | Linkedin" width="25px" src="https://user-images.githubusercontent.com/36131492/158049011-d9da229d-2dd3-4ff7-a4bc-9e8c6cd4a489.png"/>
  </a>
 <a href="https://instagram.com/zartilas">
-  <img align="left" alt="Zartilas | Instagram" width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/instagram.svg"/>
+  <img align="left" alt="Zartilas | Instagram" width="25px" src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png"/>
 </a> 
  
 <!-- <a href="https://linkedin.com/in/zartilas" target="blank"><h4> • Linked-In <h4/></a> 
@@ -52,23 +52,25 @@ BSc: Software Engineering and Intelligent Systems
 <a href="https://t.me/zartilas" target="blank"><h4> • Telegram <h4/></a> -->
     
 </p>
- 
+
+
   <br />
  
 ### Paypal:
  
 <a href="https://www.paypal.com/paypalme/zartilas">
-  <img align="center"  width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/paypal.svg"/>
+  <img align="center"  width="25px" src="https://user-images.githubusercontent.com/36131492/158049124-995c368d-af07-4393-93e2-c32c717aae0e.png"/>                               
 </a> 
- 
-<!--  <img align="left" alt="Paypal" width="26px" src="https://user-images.githubusercontent.com/96727508/147514185-8011c042-f938-4536-ae05-80857764dbb2.png" />
-https://www.paypal.com/paypalme/zartilas  -->
  
  
 ### Buy me a beer:
 
- <img>🍺 </img> 
- https://www.buymeacoffee.com/zartilas
+ <a href="https://www.buymeacoffee.com/zartilas">
+  <img align="left" alt="Zartilas | Beer" width="25px" src="https://user-images.githubusercontent.com/36131492/158049231-e04046f9-4f53-4abc-acd7-0f4a72bb90e5.png"/> 
+</a> 
+ 
+  <br />
+  <br />
 </body>
 </html>
  
