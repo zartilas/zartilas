@@ -21,6 +21,8 @@ BSc: Software Engineering and Intelligent Systems
 <details>
  <summary>More Stats</summary>
  
+ <br />
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zartilas&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&custom_title=Stats)
          
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zartilas&langs_count=7&theme=github_dark&layout=compact&hide=asp.net,html,css,shaderlab,hlsl,ruby)](https://github.com/zartilas/github-readme-stats)
@@ -33,6 +35,15 @@ BSc: Software Engineering and Intelligent Systems
 <p align="left">
  
 Email: vzartilas@pm.me
+ 
+ 
+<!-- <a href="https://linkedin.com/in/zartilas">
+  <img align="center" alt="Zartilas | Linkedin" width="21px" src="" />
+</a>
+<a href="https://instagram.com/zartilas">
+  <img align="center" alt="Zartilas | Instagram" width="20px" src="" />
+</a> -->
+ 
 
 <a href="https://linkedin.com/in/zartilas" target="blank"><h4> • Linked-In <h4/></a>
 
@@ -46,6 +57,7 @@ Email: vzartilas@pm.me
 
  <img align="left" alt="Paypal" width="26px" src="https://user-images.githubusercontent.com/96727508/147514185-8011c042-f938-4536-ae05-80857764dbb2.png" />
 https://www.paypal.com/paypalme/zartilas 
+ 
  
 ### Buy me a beer:
 
