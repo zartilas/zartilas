@@ -11,19 +11,23 @@ BSc: Software Engineering and Intelligent Systems
 </div> 
 
 <body>
+ 
+ ### Github Stats
+ 
+<p align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=zartilas&theme=github-dark&hide_border=false&border=C3D1D9&date_format=j%20M%5B%20Y%5D&fire=FF5D00F4&sideLabels=58A6FF&currStreakLabel=58A6FF&dates=C3D1D9&sideNums=C3D1D9&currStreakNum=C3D1D9&stroke=1F6FEBF4&ring=1F6FEB")](https://git.io/streak-stats)
+ </p>
+ 
 <details>
-  <summary>GitHub Stats</summary>
-
-![Stats](https://github-readme-stats.vercel.app/api?username=zartilas&theme=midnight-purple&show_icons=true)
-
+ <summary>More Stats</summary>
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zartilas&theme=github_dark&show_icons=true&include_all_commits=true&count_private=true&custom_title=Stats)
+         
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zartilas&langs_count=7&theme=github_dark&layout=compact&hide=asp.net,html,css,shaderlab,hlsl,ruby)](https://github.com/zartilas/github-readme-stats)
+ 
 </details>
-
-<details>
-  <summary>Most used languages </summary>
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zartilas&langs_count=8)
-
-</details>
+ 
+ 
 
 <h3 align="left"> Contact details:</h3>
 <p align="left">
@@ -49,3 +53,5 @@ https://www.paypal.com/paypalme/zartilas
  https://www.buymeacoffee.com/zartilas
 </body>
 </html>
+ 
+ ![](https://visitor-badge.laobi.icu/badge?page_id=zartilas.zartilas)
