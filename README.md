@@ -36,27 +36,34 @@ BSc: Software Engineering and Intelligent Systems
  
 Email: vzartilas@pm.me
  
- 
-<!-- <a href="https://linkedin.com/in/zartilas">
-  <img align="center" alt="Zartilas | Linkedin" width="21px" src="" />
+<a href="https://t.me/zartilas">
+  <img width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/telegram.svg"/>
 </a>
-<a href="https://instagram.com/zartilas">
-  <img align="center" alt="Zartilas | Instagram" width="20px" src="" />
-</a> -->
  
-
-<a href="https://linkedin.com/in/zartilas" target="blank"><h4> • Linked-In <h4/></a>
-
+ 
+<a href="https://linkedin.com/in/zartilas">
+  <img width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/linkedin.svg"/>
+</a>
+ 
+ 
+<a href="https://instagram.com/zartilas">
+  <img width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/instagram.svg"/>
+</a> 
+ 
+<!-- <a href="https://linkedin.com/in/zartilas" target="blank"><h4> • Linked-In <h4/></a> 
 <a href="https://instagram.com/zartilas" target="blank"><h4> • Instagram <h4/></a>
-  
-<a href="https://t.me/zartilas" target="blank"><h4> • Telegram <h4/></a>
+<a href="https://t.me/zartilas" target="blank"><h4> • Telegram <h4/></a> -->
     
 </p>
  
 ### Paypal:
-
- <img align="left" alt="Paypal" width="26px" src="https://user-images.githubusercontent.com/96727508/147514185-8011c042-f938-4536-ae05-80857764dbb2.png" />
-https://www.paypal.com/paypalme/zartilas 
+ 
+<a href="https://www.paypal.com/paypalme/zartilas">
+  <img align="center"  width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/paypal.svg"/>
+</a> 
+ 
+<!--  <img align="left" alt="Paypal" width="26px" src="https://user-images.githubusercontent.com/96727508/147514185-8011c042-f938-4536-ae05-80857764dbb2.png" />
+https://www.paypal.com/paypalme/zartilas  -->
  
  
 ### Buy me a beer:
