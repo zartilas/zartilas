@@ -37,17 +37,13 @@ BSc: Software Engineering and Intelligent Systems
 Email: vzartilas@pm.me
  
 <a href="https://t.me/zartilas">
-  <img width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/telegram.svg"/>
+  <img align="left" alt="Zartilas | Telegram" width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/telegram.svg"/>
 </a>
- 
- 
 <a href="https://linkedin.com/in/zartilas">
-  <img width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/linkedin.svg"/>
-</a>
- 
- 
+  <img align="left" alt="Zartilas | Linkedin" width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/linkedin.svg"/>
+ </a>
 <a href="https://instagram.com/zartilas">
-  <img width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/instagram.svg"/>
+  <img align="left" alt="Zartilas | Instagram" width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/instagram.svg"/>
 </a> 
  
 <!-- <a href="https://linkedin.com/in/zartilas" target="blank"><h4> • Linked-In <h4/></a> 
