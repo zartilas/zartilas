@@ -34,8 +34,9 @@ BSc: Software Engineering and Intelligent Systems
 <h3 align="left"> Contact details:</h3>
 <p align="left">
  
-Email: vzartilas@pm.me
- 
+<a href="mailto: vzartilas@pm.me">
+  <img align="left" alt="Zartilas | Email" width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/email.svg"/>
+</a>
 <a href="https://t.me/zartilas">
   <img align="left" alt="Zartilas | Telegram" width="20px" src="https://raw.githubusercontent.com/zartilas/zartilas/main/telegram.svg"/>
 </a>
