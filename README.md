@@ -52,6 +52,8 @@ Email: vzartilas@pm.me
     
 </p>
  
+  <br />
+ 
 ### Paypal:
  
 <a href="https://www.paypal.com/paypalme/zartilas">
