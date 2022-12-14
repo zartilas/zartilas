@@ -46,6 +46,11 @@ BSc: Software Engineering and Intelligent Systems
 <a href="https://instagram.com/zartilas">
   <img align="left" alt="Zartilas | Instagram" width="25px" src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png"/>
 </a> 
+ <a href="https://zartilas.me">
+  <img align="left" alt="Zartilas | Webstie" width="25px" src="https://user-images.githubusercontent.com/36131492/fwasdfasdf-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png"/>
+</a> 
+ 
+
  
 <!-- <a href="https://linkedin.com/in/zartilas" target="blank"><h4> • Linked-In <h4/></a> 
 <a href="https://instagram.com/zartilas" target="blank"><h4> • Instagram <h4/></a>
