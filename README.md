@@ -43,8 +43,6 @@ BSc: Software Engineering and Intelligent Systems
 <a href="https://linkedin.com/in/zartilas">
   <img align="left" alt="Zartilas | Linkedin" width="25px" src="https://user-images.githubusercontent.com/36131492/158049011-d9da229d-2dd3-4ff7-a4bc-9e8c6cd4a489.png"/>
  </a>
-<a href="https://instagram.com/zartilas">
-  <img align="left" alt="Zartilas | Instagram" width="25px" src="https://user-images.githubusercontent.com/36131492/158049056-56e3a853-a309-4bc5-a85a-a03fa8e51ce8.png"/>
 </a>  
   
 <!-- <a href="https://linkedin.com/in/zartilas" target="blank"><h4> • Linked-In <h4/></a> 
